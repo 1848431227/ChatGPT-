@@ -5,7 +5,7 @@ import openai
 import webbrowser
 
 # 输入你的 api_key
-chat_gpt_key = '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'
+chat_gpt_key = 'key'
 # 将 Key 进行传入
 openai.api_key = chat_gpt_key
 
